@@ -1,4 +1,3 @@
-package Classes_Objects_Methods;
 // program to define method overriding
 class Super{
     int x;

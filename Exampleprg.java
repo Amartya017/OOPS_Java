@@ -1,5 +1,3 @@
-package Classes_Objects_Methods;
-
 public class Exampleprg {
     static void Example(String...person){
         for(String name : person){

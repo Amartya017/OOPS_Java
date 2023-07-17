@@ -1,5 +1,3 @@
-package Classes_Objects_Methods;
-
 class Nesting{
         int m, n;
     Nesting(int x, int y){

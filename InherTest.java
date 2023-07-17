@@ -1,5 +1,3 @@
-package Classes_Objects_Methods;
-
 class Room{
     int length;
     int breadth;

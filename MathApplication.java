@@ -1,5 +1,3 @@
-package Classes_Objects_Methods;
-
 class Mathoperation{
     static float mul(float x, float y){
         return (x*y);

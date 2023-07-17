@@ -1,5 +1,3 @@
-package Classes_Objects_Methods;
-
 class Rectangle{
     int length,width; //Declaration of Variables
     void getdata(int x, int y){  // Declaration of Method

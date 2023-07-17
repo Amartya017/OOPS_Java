@@ -1,5 +1,3 @@
-package Classes_Objects_Methods;
-
 class perimeter{
     int length,breadth;
     perimeter(){       //default constructor
